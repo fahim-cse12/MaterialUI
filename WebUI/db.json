@@ -1,6 +1,41 @@
 {
   "productList": [
-    
+    {
+      "productName": "Hilsha Fish",
+      "category": "Fish",
+      "freshness": "item",
+      "comments": "For Hilsha ",
+      "price": 900,
+      "date": "2022-05-12T18:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Polao ",
+      "category": "Rice",
+      "freshness": "item",
+      "comments": "for rice",
+      "price": 55,
+      "date": "2022-05-17T18:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Lichi",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "comments": "For Lichi",
+      "price": 280,
+      "date": "2022-05-18T18:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Water Melon",
+      "category": "Fruits",
+      "freshness": "Used",
+      "comments": "Huge Price",
+      "price": 200,
+      "date": "2022-05-20T18:00:00.000Z",
+      "id": 6
+    }
   ],
   "comments": [
     {
